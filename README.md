@@ -13,6 +13,5 @@ Refer to [WeatherPy.ipynb.ipynb](../main/WeatherPy.ipynb).
 
 
 ## Results
-![alt text](../main/weather_database/Weather_Database.png "Weather_Database")
 ![alt text](../main/Vacation_Search/Vacation_Search.png "Vacation_Search")
 ![alt text](../main/Vacation_Itinerary/Vacation_Itinerary.png "Vacation_Itinerary")
