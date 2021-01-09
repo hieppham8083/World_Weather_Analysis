@@ -1,6 +1,6 @@
 # World_Weather_Analysis
   - Use google maps API and OpenWeather API to create heatmaps. Also provide the user with recommended ideal hotels within there preferred travel destinations.
-  - Refer to [WeatherPy.ipynb.ipynb](../main/WeatherPy.ipynb).
+  - Refer to [WeatherPy.ipynb](../main/WeatherPy.ipynb).
 
 ## Overview of Project
   - Use the data to recommend ideal hotels based on clients’ weather preferences.
