@@ -3,8 +3,8 @@
   -Refer to [WeatherPy.ipynb.ipynb](../main/WeatherPy.ipynb).
 
 ## Overview of Project
-  -Use the data to recommend ideal hotels based on clients’ weather preferences.
-  -Create a Pandas DataFrame with 500 or more of the world’s unique cities.
+  1. Use the data to recommend ideal hotels based on clients’ weather preferences.
+  2. Create a Pandas DataFrame with 500 or more of the world’s unique cities.
 
 ## Summary
   -Use the NumPy module to generate more than 1,500 random latitudes and longitudes.
